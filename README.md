@@ -50,6 +50,7 @@ Pour installer et exécuter Cub3d, suivez ces étapes :
     ```bash
     make
     make bonus
+    
     ```
 
 3. Lancez le jeu :
