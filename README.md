@@ -61,8 +61,7 @@ Utilisez les touches suivantes pour jouer au jeu :
 - **Shift** : Courrir
 - **Flèche gauche** : Tourner la caméra à gauche
 - **Flèche droite** : Tourner la caméra à droite
-- **Échap** : Quitter le jeu
-
+- **Échap** : Quitter le jeu / Menu
 - **Souris** : Tourner la caméra à gauche/droite
 - **Click gauche** : Tirer
 
@@ -70,12 +69,13 @@ Utilisez les touches suivantes pour jouer au jeu :
 
 Cub3d nécessite les dépendances suivantes :
 
-- **Vulan** : Cette mlx (MacroLibx), est dependante de Vulkan pour fonctionner.
+- **OS** : Ne fonctionne pas correctement sur MacOS.
+- **Vulkan** : Cette mlx (MacroLibx), est dependante de Vulkan pour fonctionner.
 - **gcc** : Le compilateur C.
 
 Assurez-vous que ces dépendances sont installées avant de compiler le projet.
 
 ## Auteurs
 
-- **Mathis** (madegryc), 42 Angouleme.
-- **Emile** (ehalliez), 42 Angouleme
+- **Mathis** (madegryc), 42 Angouleme. [https://github.com/Misthaa]
+- **Emile** (ehalliez), 42 Angouleme [https://github.com/Ehlzz]
