@@ -24,11 +24,12 @@ Notamment la randomisation des murs, l'affichage correct des portes, ennemis ou 
 - Moteur de rendu 3D utilisant le raycasting (Manda)
 - Déplacement du joueur (Manda)
 - Rotation de la caméra (Manda)
-- Gestion des collisions avec les murs (Bonus)
-- Mini-carte affichant la position du joueur (Bonus)
-- Jouabilité avec la souris (PDV et Shoot) (Bonus)
-- Porte (Bonus)
-- Menu + Settings (Bonus)
+- Gestion des collisions avec les murs (Bonus sujet)
+- Mini-carte affichant la position du joueur (Bonus sujet)
+- Jouabilité avec la souris (PDV et Shoot) (Bonus sujet/perso)
+- Porte (Bonus sujet)
+- Stamina (Bonus perso)
+- Menu + Settings (Bonus perso)
 
 ![Screenshot from 2024-06-12 15-22-28](https://github.com/Misthaa/cub3D/assets/113677180/bdf42194-2c5a-46b5-a1c4-7a04186fda88)
 
