@@ -11,7 +11,10 @@
 ## À propos
 
 Cub3d est un projet de jeu en 3D développé dans le cadre de mon cursus 42. Il s'inspire du jeu Wolfenstein 3D (ou Doom) et met en œuvre des techniques de raycasting pour créer un environnement de jeu immersif.
-Je vous conseils de jouer au bonus, vu que c'est le manda mais en mieux ! Il faut noter aussi que nous avons fait le projet en 3 semaines environs. Nous avons un rendu sympa mais il reste toujours des choses que nous avons prevu mais abandonné du au manque de temps (On voulait passer a un autre projet.) Notamment la randomisation des murs, l'affichage correct des portes, ennemis ou impact de balle.
+Je vous conseils de jouer au bonus, vu que c'est le manda mais en mieux !
+Il faut noter aussi que nous avons fait le projet en 3 semaines environs.
+Nous avons un rendu sympa mais il reste toujours des choses que nous avons prevu mais abandonné du au manque de temps (On voulait passer a un autre projet.)
+Notamment la randomisation des murs, l'affichage correct des portes, ennemis ou impact de balle.
 
 ![Screencast from 06-12-2024 03_55_23 PM](https://github.com/Misthaa/cub3D/assets/113677180/705f018a-a424-44aa-bbf9-4d8c19409ed0)
 
