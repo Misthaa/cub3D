@@ -19,7 +19,7 @@ Je vous conseils de jouer au bonus, vu que c'est le manda mais en mieux ! Il fau
 
 - Chargement de cartes depuis des fichiers texte (Manda)
 - Moteur de rendu 3D utilisant le raycasting (Manda)
-- Déplacement du joueur (avant, arrière, gauche, droite) (Manda)
+- Déplacement du joueur (Manda)
 - Rotation de la caméra (Manda)
 - Gestion des collisions avec les murs (Bonus)
 - Mini-carte affichant la position du joueur (Bonus)
@@ -82,4 +82,4 @@ Assurez-vous que ces dépendances sont installées avant de compiler le projet.
 ## Auteurs
 
 - **Mathis** (madegryc), 42 Angouleme. [https://github.com/Misthaa]
-- **Emile** (ehalliez), 42 Angouleme [https://github.com/Ehlzz]
+- **Emile** (ehalliez), 42 Angouleme. [https://github.com/Ehlzz]
