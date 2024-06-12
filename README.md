@@ -46,14 +46,14 @@ Pour installer et exécuter Cub3d, suivez ces étapes :
     ```bash
     make
     ```
-2,5. Avec Bonus :
+
+3. Avec Bonus :
     ```bash
     make
     make bonus
-    
     ```
 
-3. Lancez le jeu :
+4. Lancez le jeu :
     ```bash
     ./cub3d assets/maps/map_manda/bonus.cub
     ```
