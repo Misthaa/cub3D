@@ -42,11 +42,11 @@ Pour installer et exécuter Cub3d, suivez ces étapes :
     cd cub3d
     ```
 
-2. Compilez le projet (Manda) :
+2. Compilez le projet :
     ```bash
     make
     ```
-(Bonus) :
+2,5. Avec Bonus :
     ```bash
     make
     make bonus
